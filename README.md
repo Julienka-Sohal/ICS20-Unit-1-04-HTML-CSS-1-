@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Julienka-Sohal/ICS20-Unit-1-04-HTML-CSS-1-)](https://repl.it/github/Julienka-Sohal/ICS20-Unit-1-04-HTML-CSS-1-)
 
-[![Run on Repl.it](https://repl.it/badge/github/Julienka-Sohal/ICS20-Unit-1-04-HTML-CSS-1-)](https://repl.it/github/Julienka-Sohal/ICS20-Unit-1-04-HTML-CSS-1-)
+This site can be found at: [https://Julienka-Sohal.github.io/ICS20-Unit-1-04-HTML-CSS-1-](https://Julienka-Sohal.github.io/ICS20-Unit-1-04-HTML-CSS-1-)

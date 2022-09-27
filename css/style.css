@@ -1,13 +1,13 @@
-html,
-body {
-  height: 100%;
-  width: 100%;
-}
-
 /* Created by: Julienka Sohal
  * Created on: Sep 2022
  * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
 */
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
 
 body {
   background-color: palevioletred;
